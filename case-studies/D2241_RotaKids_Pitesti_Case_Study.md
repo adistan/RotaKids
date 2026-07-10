@@ -47,7 +47,6 @@ The first RotaKids meetings began in autumn 2013, establishing the practical fra
 The RotaKids Club Pitesti case does not prove that every implementation will achieve the same results.
 
 It proves that the model can:
-
 - survive leadership change;
 - operate safely over time;
 - maintain institutional continuity;
@@ -83,16 +82,14 @@ Data verified by the District 2241 RotaKids Committee for the period 2014–2026
 
 RotaKids is proposed as a global framework for young leaders within the Rotary family.
 
-Official project website:
+Website:
 
-[https://rotakids.org](https://rotakids.org)
+[https://rotakids.ro/rotakids-pitesti.html](https://rotakids.ro/rotakids-pitesti.html)
 
 ## Rights and Trademarks
 
 © RotaKids.org. All rights reserved.
-
 RotaKids is supported by District 2241 and the worldwide network of Rotarians.
-
 Rotary, Interact, and Rotaract are trademarks of Rotary International.
 
 ## Attribution
