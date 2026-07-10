@@ -14,7 +14,6 @@ This repository provides a stable public record of:
 
 - official resolutions;
 - governance and organizational documents;
-- conference materials;
 - educational resources;
 - reports and project results;
 - historical versions of documents;
