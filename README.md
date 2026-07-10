@@ -28,7 +28,6 @@ rotakids/
 ├── README.md
 ├── resolution/
 ├── governance/
-├── conference-2026/
 ├── educational-materials/
 ├── reports/
 ├── public-resources/
