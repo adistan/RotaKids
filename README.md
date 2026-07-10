@@ -21,23 +21,21 @@ This repository provides a stable public record of:
 
 ## Repository Structure
 
-```text
-rotakids/
-├── README.md
-├── [resolution/](/resolution) 
-├── [governance/](/governance)
-├── educational-materials/
-├── reports/
-├── public-resources/
-└── archive/
-```
+## Repository Structure
 
-### `[resolution/](/resolution)`
+- [resolution/](resolution/)
+- [governance/](governance/)
+- educational-materials/
+- reports/
+- public-resources/
+- archive/
+
+### [resolution/](/resolution)
 
 Contains the 2026 RotaKids resolution and its supporting documents.
 The resolution is one of the central institutional documents of the initiative and should be treated as an authoritative reference according to the version and publication date indicated in the document.
 
-### `[governance/](/governance)`
+### [governance/](/governance)
 
 Contains governance rules, organizational principles, procedures, institutional documents, and materials concerning the administration and continuity of RotaKids.
 
