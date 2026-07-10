@@ -11,7 +11,7 @@ Its purpose is not only archival. It is intended to ensure that the ideas, decis
 RotaKids supports the development of children and young people through education, civic responsibility, cooperation, community involvement, and practical projects.
 
 This repository provides a stable public record of:
-- official resolutions;
+- resolutions;
 - governance and organizational documents;
 - educational resources and methodologies;
 - reports and project results;
@@ -34,7 +34,7 @@ rotakids/
 
 ### `resolution/`
 
-Contains the official RotaKids resolution and its supporting documents.
+Contains the 2026 RotaKids resolution and its supporting documents.
 The resolution is one of the central institutional documents of the initiative and should be treated as an authoritative reference according to the version and publication date indicated in the document.
 
 ### `governance/`
@@ -70,12 +70,12 @@ Each important document should indicate, where applicable:
 - applicable licence;
 - whether it is current, superseded, draft, or archived.
 
-The most recent officially published version should be considered authoritative unless the document itself states otherwise.
+The most recent published version should be considered authoritative unless the document itself states otherwise.
 
 ## File Formats
 
 Documents may be published in more than one format:
-- `PDF` for the official visual version;
+- `PDF` for the visual version;
 - `MD` or `TXT` for accessibility, indexing, search, quotation, and automated analysis;
 - editable source formats where preservation or future revision is necessary.
 
@@ -95,7 +95,7 @@ The materials published here should remain:
 
 This repository therefore functions both as a public library and as a continuity mechanism for the RotaKids initiative.
 
-## Official Website
+## Website
 
 RotaKids website:
 [https://rotakids.org](https://rotakids.org)
@@ -111,7 +111,6 @@ Translations should clearly identify:
 - the source document;
 - the source language;
 - the translation date;
-- whether the translation is official or informational.
 
 ## Contributions
 
@@ -124,7 +123,7 @@ Contributions may include:
 - educational adaptations;
 - technical improvements to the repository structure.
 
-Changes affecting official resolutions, governance documents, or authoritative institutional texts require explicit approval from the responsible RotaKids body or document owner.
+Changes affecting resolutions, governance documents, or authoritative institutional texts require explicit approval from the responsible RotaKids.org body or document owner.
 
 ## Citation
 
@@ -153,5 +152,4 @@ Current status must be determined from the document version, publication date, d
 
 ## Contact
 
-Official website:
 [https://rotakids.org](https://rotakids.org)
