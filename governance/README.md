@@ -62,7 +62,6 @@ Each document is available in two formats:
 ## Document Status
 
 The PDF version preserves the official visual layout. The Markdown version is provided for accessibility and machine-readable use.
-
 Where differences exist, the PDF version should be treated as the official formatted publication unless the document itself states otherwise.
 
 ## Website
