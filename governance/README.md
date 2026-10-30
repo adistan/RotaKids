@@ -59,6 +59,11 @@ Each document is available in two formats:
 - [Read Markdown](10_RotaKids_Project_Showcase_2026.md)
 - [View PDF](10_RotaKids_Project_Showcase_2026.pdf)
 
+### Supplementary document: Implementation Framework for the RI Board
+
+- [Read Markdown](Implementation_Framework_for_the_RI_Board-v1.2.6_EN.md)
+- [View PDF](Implementation_Framework_for_the_RI_Board-v1.2.6_EN.pdf)
+
 ## Document Status
 
 The PDF version preserves the official visual layout. The Markdown version is provided for accessibility and machine-readable use.
