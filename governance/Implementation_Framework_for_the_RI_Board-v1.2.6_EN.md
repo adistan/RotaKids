@@ -1,22 +1,28 @@
-Proposed implementing rules
-and administrative-technical specifications
+Proposed implementing rulesand administrative-technical specifications
+
 V1.2.6 (Oct 30, 2026)
+
 Adrian STAN, RC Pitești, D2241
+
 Chapter 0 - General provisions
+
 Art. 0.1 - Purpose. This document proposes implementing rules for the RotaKids framework
 proposed by Resolution 26R-11: the allocation of responsibilities, data management, operating
 procedures and the specifications of the digital platform. It also answers questions raised by
 Rotarians from several districts after the resolution package was published.
+
 Art. 0.2 - Relationship with documents 01-10. This document complements documents 01-10
 (01. Standard Constitution, 02. Standard Bylaws, 03. Statement of Policy, 04. Sponsor Guide, 05. Global
 Handbook, 06. Branding & Merit Guide, 07. Safeguarding Framework, 08. Position Paper, 09. Visual
 Guide - Annex A, 10. Project Showcase - Annex B). Where a provision of this document differs from
 an earlier document, an amendment of the earlier document is proposed; the proposed
 amendments are listed in Chapter 12.
+
 Art. 0.3 - Application. The proposed rules would apply after the adoption of the resolution and
 the decision of the RI Board, for the duration of the 3-year pilot proposed in Chapter 10. The
 provisions are worded normatively for clarity, but all of them are proposals and may be amended
 by the RI Board or by districts, within their respective responsibilities.
+
 Art. 0.4 - Definitions.
 Term Meaning
 Platform The set of RotaKids digital services: my.rotakids.org (administration),
